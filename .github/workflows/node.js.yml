@@ -2,7 +2,7 @@ name: Build and test nodejs application
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   
 
 jobs:
