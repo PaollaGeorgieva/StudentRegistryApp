@@ -1,4 +1,4 @@
-name: Build and test nodejs application
+name: Build and test 
 
 on:
   push:
